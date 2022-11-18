@@ -1,4 +1,4 @@
-([nosoogja]favicon.ico)
+[![nosoogja](favicon.ico)]
 
 # nosoogja.github.io
 I see you.
